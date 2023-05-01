@@ -48,8 +48,8 @@ This is a simple Vue.js application that allows users to search and filter a lis
 - [Axios](https://axios-http.com/)
 - [The Movie Database API](https://developers.themoviedb.org/3/getting-started/introduction)
 - [SweetAlert2](https://sweetalert2.github.io/)
-- [HTML]
-- [CSS]
+- HTML
+- CSS
 - [Google Fonts](https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap)
 
 ### Contact
